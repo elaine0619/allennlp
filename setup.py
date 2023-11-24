@@ -82,7 +82,8 @@ setup(
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
     keywords="allennlp NLP deep learning machine reading",
-    url="https://github.com/allenai/allennlp",
+    """url="https://github.com/allenai/allennlp","""
+    url="https://github.com/elaine0619/allennlp",
     author="Allen Institute for Artificial Intelligence",
     author_email="allennlp@allenai.org",
     license="Apache",
